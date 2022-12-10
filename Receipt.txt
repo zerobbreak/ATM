@@ -1,0 +1,4 @@
+Receipt is for admin
+Total amount: $1000
+Withdraw $ -
+Deposit: $1000

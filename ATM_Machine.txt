@@ -1,0 +1,28 @@
+Problem statement ?
+This project is to make an automated teller
+machine with user's account and password,
+bank account, with that user are able to withdraw,
+deposit, and view their account balance
+
+Requirements:   Core Java
+                JDK Installed
+
+
+
+ATM.ATM2.Account    :    ATM.ATM2.Account Number: 9876543 Password: 9876
+Privileges      ATM.ATM2.Account Number: 8989898 Password: 1890
+
+Features:
+-Amount
+-User ATM.ATM2.Account
+-Profiles
+-Creation
+-Forget Pin
+-R 1_______ (user input)
+
+ATM.ATM2.Account Privileges:
+-if statement or switch case statement
+-ATM.ATM2.Account privilege
+   --ATM.ATM2.Account
+   --password
+-Store Creation of new pin and user account within a text file:

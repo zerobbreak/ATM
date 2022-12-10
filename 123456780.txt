@@ -1,0 +1,5 @@
+Receipt: *****************************
+CustomerNumber: 123456780
+Checking Balance: $20 503,00
+Saving ATM2.Account: $100 233,00
+**************************************
